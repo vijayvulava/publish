@@ -7,4 +7,4 @@ The first chapter summarizes atomic principles, including the periodic table and
 
 I incorporated several examples and practice exercises throughout the textbook. I have also incorporated short case studies and links to topic-related videos that were created by many content creators. I will continue to add and improve these exercises to help you understand and apply the concepts better. 
 
-![Example]{./assets/Geolo-Envir-Geosc-dept}
+![Example]{assets/Geolo-Envir-Geosc-dept}
