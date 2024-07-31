@@ -1,5 +1,6 @@
 # Welcome to *Geochemistry*
 
+[Home](readme.md) | [Teaching](courses.md) | [Research](research.md) | [Community](community.md) 
 
 This is an early draft of **An Introduction to Geochemistry** textbook to be used by Geology and Environmental Geosciences majors for ***GEOL 250: Introduction to Geochemistry*** class at the College of Charleston.  One semester of chemistry (CHEM 111 or equivalent) is a required prerequisite for this course.  
 
