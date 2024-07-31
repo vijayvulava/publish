@@ -11,3 +11,6 @@ I incorporated several examples and practice exercises throughout the textbook. 
  
 
 ![Example](assets/Geolo-Envir-Geosc-dept.jpg)
+
+<img src="assets/Geolo-Envir-Geosc-dept.jpg" style="width:300px">
+
