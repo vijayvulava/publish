@@ -10,4 +10,4 @@ I incorporated several examples and practice exercises throughout the textbook. 
 ![Geolo-Envir-Geosc-dept](https://github.com/user-attachments/assets/61d4251d-427e-4ad5-bdf1-f81dd3d893f4)
  
 
-![Example]{assets/Geolo-Envir-Geosc-dept}
+![Example](assets/Geolo-Envir-Geosc-dept)
